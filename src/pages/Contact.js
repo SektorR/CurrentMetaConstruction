@@ -168,11 +168,11 @@ const Contact = () => {
                   </div>
                   <div>
                     <strong>📱 Phone:</strong><br />
-                    +61 (0) 2 1234 5678
+                    +61 (0) 8 1234 5678
                   </div>
                   <div>
                     <strong>📍 Location:</strong><br />
-                    Sydney, New South Wales<br />
+                    Perth, Western Australia<br />
                     Australia
                   </div>
                   <div>
@@ -187,15 +187,15 @@ const Contact = () => {
               <div className="service-card" style={{ marginTop: '2rem' }}>
                 <h3>Service Areas</h3>
                 <p>
-                  We provide construction services throughout New South Wales,
-                  with primary focus on the Greater Sydney region.
+                  We provide construction services throughout Western Australia,
+                  with primary focus on the Greater Perth region.
                 </p>
                 <ul style={{ marginTop: '1rem' }}>
-                  <li>Greater Sydney Metropolitan Area</li>
-                  <li>Central Coast</li>
-                  <li>Hunter Valley</li>
-                  <li>Blue Mountains</li>
-                  <li>Illawarra Region</li>
+                  <li>Greater Perth Metropolitan Area</li>
+                  <li>Mandurah & Peel Region</li>
+                  <li>South West (Bunbury, Margaret River)</li>
+                  <li>Wheatbelt Region</li>
+                  <li>Perth Hills</li>
                 </ul>
                 <p style={{ marginTop: '1rem', fontSize: '0.9rem', color: 'var(--primary-medium)' }}>
                   For projects outside these areas, please contact us to discuss

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Services = () => {
   return (
@@ -143,9 +144,9 @@ const Services = () => {
           <p style={{ fontSize: '1.1rem', marginBottom: '2rem' }}>
             Contact us today for a consultation and detailed project estimate.
           </p>
-          <a href="/contact" className="btn btn-primary">
+          <Link to="/contact" className="btn btn-primary">
             Get Your Free Quote
-          </a>
+          </Link>
         </div>
       </section>
     </div>
