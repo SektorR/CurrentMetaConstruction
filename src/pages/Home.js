@@ -58,6 +58,20 @@ const Home = () => {
                 your build on time and within budget.
               </p>
             </div>
+            <div className="service-card">
+              <h3>🤝 Customer-Centric</h3>
+              <p>
+                Our approach is tailored to your unique circumstances,
+                ensuring solutions that fit your specific needs and budget.
+              </p>
+            </div>
+            <div className="service-card">
+              <h3>💡 Smart Solutions</h3>
+              <p>
+                Logical, common-sense problem solving that cuts through
+                complexity to deliver practical construction outcomes.
+              </p>
+            </div>
           </div>
         </div>
       </section>
