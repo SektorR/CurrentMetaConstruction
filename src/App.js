@@ -10,7 +10,7 @@ import './styles/App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/CurrentMetaConstruction">
       <div className="App">
         <Header />
         <main className="main-content">
