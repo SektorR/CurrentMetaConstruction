@@ -40,7 +40,7 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Contact Info</h4>
             <div className="contact-info">
-              <p>📧 info@currentmetaconstruction.com.au</p>
+              <p>📧 info@cmcs.com.au</p>
               <p>📱 +61 (0) 8 1234 5678</p>
               <p>📍 Perth, WA</p>
             </div>

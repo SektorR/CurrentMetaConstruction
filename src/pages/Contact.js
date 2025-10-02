@@ -164,7 +164,7 @@ const Contact = () => {
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                   <div>
                     <strong>📧 Email:</strong><br />
-                    info@currentmetaconstruction.com.au
+                    info@cmcs.com.au
                   </div>
                   <div>
                     <strong>📱 Phone:</strong><br />
